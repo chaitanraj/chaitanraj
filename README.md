@@ -1,5 +1,17 @@
 # 💫 About Me:
-🔭 Currently Working On<br>I’m actively building full-stack web applications using React / Next.js on the frontend and Node.js / Express on the backend, with a strong focus on clean architecture and real-world use cases.<br>One of my key projects, FinSight AI, is an expense analysis platform that integrates an isolated ML service running three models—including Prophet (by Meta) for time-series forecasting and the Gemini API for insight generation—to detect anomalies and analyze spending trends. The system is built with Next.js, PostgreSQL, Prisma, and secure API communication.<br>Alongside this, I also work on security-focused projects, such as phishing and unsafe URL detection systems.<br><br>👯 Looking to Collaborate On<br>I’m interested in collaborating on practical, real-world projects rather than toy applications—especially in:<br><br>Full-stack development<br><br>Backend systems & APIs<br><br>Web security<br><br>Performance optimization<br><br>I enjoy working with people who care about code quality, system design, and building features that can scale in production.<br><br>🤝 Looking for Help With<br>I’m currently seeking guidance and feedback on:<br><br>Backend system design & scalability<br><br>Clean API architecture<br><br>Production-grade security practices<br><br>Deployment & infrastructure patterns used in real applications<br><br>🌱 Currently Learning<br>I’m deepening my understanding of:<br><br>Advanced backend concepts<br><br>Efficient REST API design<br><br>Database optimization using PostgreSQL & Prisma<br><br>Performance tuning in Node.js<br>At the same time, I’m learning how to design secure, reliable systems that closely resemble real production environments.<br><br>💬 Ask Me About<br>Feel free to ask me about:<br><br>React & Next.js<br><br>Node.js, Express & REST APIs<br><br>Full-stack project architecture<br><br>Debugging end-to-end applications<br>I’m especially comfortable discussing how different parts of a system communicate and where common bugs or bottlenecks appear.
+🔭 **Currently Working On**  
+Building **full-stack web applications** using **React / Next.js** , **Node.js / Express** and **Python / Flask** focused on clean architecture and real-world use cases.  
+Developing **FinSight AI**, an expense analysis platform with an **isolated ML microservice (Python + Flask)** running **three models** — **Isolation Forest** for anomaly detection, **Prophet (by Meta)** for time-series forecasting, and the **Gemini API** for insight generation. The system uses **Next.js, PostgreSQL, Prisma**, and **secure inter-service API communication**.  
+Also working on **security-focused tools** such as phishing and unsafe URL detection systems.
+
+👯 **Looking to Collaborate On**  
+Real-world projects in **full-stack development, backend APIs, web security, and performance optimization**.
+
+🤝 **Looking for Help With**  
+**Backend system design**, scalability, clean API architecture, **production-grade security**, and deployment patterns.
+
+🌱 **Currently Learning**  
+Advanced backend concepts, **API design**, **PostgreSQL + Prisma optimization**, Node.js performance, and **production-like system design**.
 
 
 ## 🌐 Socials:
