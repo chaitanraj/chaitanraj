@@ -1,7 +1,7 @@
 # 💫 About Me:
 🔭 **Currently Working On**  
 Building **full-stack web applications** using **React / Next.js** , **Node.js / Express** and **Python / Flask** focused on clean architecture and real-world use cases.  
-Developing **FinSight AI**, an expense analysis platform with an **isolated ML microservice (Python + Flask)** running **three models** — **Isolation Forest** for anomaly detection, **Prophet (by Meta)** for time-series forecasting, and the **Gemini API** for insight generation. The system uses **Next.js, PostgreSQL, Prisma**, and **secure inter-service API communication**.  
+Developing **FinSight AI**, an intelligent finance platform with an **isolated ML microservice (Python + Flask)** running **three models** — **Isolation Forest** for anomaly detection, **Prophet (by Meta)** for time-series forecasting, and the **Gemini API** for insight generation. The system uses **Next.js, PostgreSQL, Prisma**, and **secure inter-service API communication**.  
 Also working on **security-focused tools** such as phishing and unsafe URL detection systems.
 
 👯 **Looking to Collaborate On**  
