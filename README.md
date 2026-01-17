@@ -13,7 +13,7 @@ Real-world projects in **full-stack development, backend APIs, web security, and
 🌱 **Currently Learning**  
 Advanced AI/ML concepts, **API design**, **PostgreSQL + Prisma optimization**, Node.js performance, and **production-like system design**.
 
-🎯 **𝗖𝗮𝗿𝗲𝗲𝗿 𝗢𝗯𝗷𝗲𝗰𝘁𝗶𝘃𝗲**
+🎯 **Career Objective**
 To work in an engineering-driven environment where I can contribute to building scalable, intelligent software systems, while continuously improving my skills in full-stack development, AI integration, and backend architecture.
 
 
