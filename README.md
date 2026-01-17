@@ -1,8 +1,8 @@
 # 💫 About Me:
-🔭 **Currently Working On**  
-Building **full-stack web applications** using **React / Next.js** , **Node.js / Express** and **Python / Flask** focused on clean architecture and real-world use cases.  
-Developing **FinSight AI**, an intelligent finance platform with an **isolated ML microservice (Python + Flask)** running **three models** — **Isolation Forest** for anomaly detection, **Prophet (by Meta)** for time-series forecasting, and the **Gemini API** for insight generation. The system uses **Next.js, PostgreSQL, Prisma**, and **secure inter-service API communication**.  
-Also working on **security-focused tools** such as phishing and unsafe URL detection systems.
+👋 Hi, I’m 𝗖𝗵𝗮𝗶𝘁𝗮𝗻𝘆𝗮 𝗥𝗮𝗷
+
+I’m a 𝗙𝘂𝗹𝗹-𝗦𝘁𝗮𝗰𝗸 𝗔𝗜 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 with a strong backend and systems-oriented approach to building software. I enjoy turning complex problems into scalable, well-structured applications by combining modern web technologies, AI-driven logic, and reliable deployment practices. I focus on writing code that is clean, efficient, and production-ready rather than quick prototypes.
+I work extensively with AI-integrated web systems, where data is not just stored or displayed, but analyzed to generate meaningful insights. I’m particularly interested in building SaaS-style platforms, intelligent dashboards, and automation-driven products that scale well in real-world usage.
 
 👯 **Looking to Collaborate On**  
 Real-world projects in **full-stack development, backend APIs, web security, and performance optimization**.
@@ -11,7 +11,10 @@ Real-world projects in **full-stack development, backend APIs, web security, and
 **Backend system design**, scalability, clean API architecture, **production-grade security**, and deployment patterns.
 
 🌱 **Currently Learning**  
-Advanced backend concepts, **API design**, **PostgreSQL + Prisma optimization**, Node.js performance, and **production-like system design**.
+Advanced AI/ML concepts, **API design**, **PostgreSQL + Prisma optimization**, Node.js performance, and **production-like system design**.
+
+🎯 **𝗖𝗮𝗿𝗲𝗲𝗿 𝗢𝗯𝗷𝗲𝗰𝘁𝗶𝘃𝗲**
+To work in an engineering-driven environment where I can contribute to building scalable, intelligent software systems, while continuously improving my skills in full-stack development, AI integration, and backend architecture.
 
 
 ## 🌐 Socials:
