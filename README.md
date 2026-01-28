@@ -25,6 +25,10 @@ To work in an engineering-driven environment where I can contribute to building 
 # 📊 GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=chaitanraj&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=chaitanraj&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=chaitanraj&theme=dark&show_icons=true&hide_border=false&include_all_commits=true&count_private=true)
+![](https://streak-stats.demolab.com?user=chaitanraj&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=chaitanraj&theme=dark&hide_border=false&layout=compact)
 
 
 ### ✍️Wise Words
