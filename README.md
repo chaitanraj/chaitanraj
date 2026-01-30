@@ -4,7 +4,7 @@
 I’m a 𝗙𝘂𝗹𝗹-𝗦𝘁𝗮𝗰𝗸 𝗔𝗜 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 with a strong backend and systems-oriented approach to building software. I enjoy turning complex problems into scalable, well-structured applications by combining modern web technologies, AI-driven logic, and reliable deployment practices. I focus on writing code that is clean, efficient, and production-ready rather than quick prototypes.
 I work extensively with AI-integrated web systems, where data is not just stored or displayed, but analyzed to generate meaningful insights. I’m particularly interested in building SaaS-style platforms, intelligent dashboards, and automation-driven products that scale well in real-world usage.
 
-🌱 **Currently Learning**
+🌱 **Currently Learning** </br>
 Advanced AI/ML concepts, API design, PostgreSQL + Prisma optimization, Node.js performance tuning, and production-oriented system design.
 
 🛠 **Engineering Focus**
