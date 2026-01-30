@@ -7,13 +7,13 @@ I work extensively with AI-integrated web systems, where data is not just stored
 🌱 **Currently Learning** </br>
 Advanced AI/ML concepts, API design, PostgreSQL + Prisma optimization, Node.js performance tuning, and production-oriented system design.
 
-🛠 **Engineering Focus**
+🛠 **Engineering Focus** </br>
 Writing clean, maintainable code, designing production-ready APIs, and building systems that prioritize security, scalability, and performance.
 
-🧠 **Areas of Interest**
+🧠 **Areas of Interest** </br>
 Backend architecture, scalable systems, web security, database design, performance optimization, and AI/LLM integration in real applications.
 
-🎯 **Career Objective**
+🎯 **Career Objective** </br>
 To grow in an engineering-driven environment by contributing to scalable, reliable, and intelligent software systems, while continuously strengthening my skills in backend architecture, full-stack development, and AI integration.
 
 
