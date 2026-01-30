@@ -4,17 +4,17 @@
 I’m a 𝗙𝘂𝗹𝗹-𝗦𝘁𝗮𝗰𝗸 𝗔𝗜 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 with a strong backend and systems-oriented approach to building software. I enjoy turning complex problems into scalable, well-structured applications by combining modern web technologies, AI-driven logic, and reliable deployment practices. I focus on writing code that is clean, efficient, and production-ready rather than quick prototypes.
 I work extensively with AI-integrated web systems, where data is not just stored or displayed, but analyzed to generate meaningful insights. I’m particularly interested in building SaaS-style platforms, intelligent dashboards, and automation-driven products that scale well in real-world usage.
 
-👯 **Looking to Collaborate On**  
-Real-world projects in **full-stack development, backend APIs, web security, and performance optimization**.
+🌱 **Currently Learning**
+Advanced AI/ML concepts, API design, PostgreSQL + Prisma optimization, Node.js performance tuning, and production-oriented system design.
 
-🤝 **Looking for Help With**  
-**Backend system design**, scalability, clean API architecture, **production-grade security**, and deployment patterns.
+🛠 **Engineering Focus**
+Writing clean, maintainable code, designing production-ready APIs, and building systems that prioritize security, scalability, and performance.
 
-🌱 **Currently Learning**  
-Advanced AI/ML concepts, **API design**, **PostgreSQL + Prisma optimization**, Node.js performance, and **production-like system design**.
+🧠 **Areas of Interest**
+Backend architecture, scalable systems, web security, database design, performance optimization, and AI/LLM integration in real applications.
 
-🎯 **Career Objective**  
-To work in an engineering-driven environment where I can contribute to building scalable, intelligent software systems, while continuously improving my skills in full-stack development, AI integration, and backend architecture.
+🎯 **Career Objective**
+To grow in an engineering-driven environment by contributing to scalable, reliable, and intelligent software systems, while continuously strengthening my skills in backend architecture, full-stack development, and AI integration.
 
 
 ## 🌐 Socials:
